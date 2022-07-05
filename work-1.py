@@ -1,0 +1,11 @@
+print ("Name Manyapa")
+print("Surname Namphan")
+print("Nickname Tangmo")
+print("Number 42")
+print("Age 17")
+print("Sex female")
+print("School Chonradsadornumrung")
+print("Birthday 02-03-2005 ")
+print("Phone 0985532919")
+print("Favcolor blue,purple,white")
+# นางสาวมัณยาภา นำพันธ์ เลขที่ 42 

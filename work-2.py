@@ -1,0 +1,22 @@
+print ("hello M.6/14")
+Name = "Manyapa"
+Surname = "Namphan"
+Nickname = "Tangmo"
+Number = "42"
+Age = "17"
+Sex = "female"
+School = "Chonradsadornumrung"
+Birthday = "02-03-2005"
+Phone = "0985532919"
+Favcolor = "blue,purple,white"
+print ("Name", Name)
+print("Surname ", Surname)
+print("Nickname" , Nickname)
+print("Number" , Number)
+print("Age" , Age)
+print("Sex" , Sex)
+print("School" , School)
+print("Birthday" , Birthday)
+print("Phone" , Phone)
+print("Favcolor" , Favcolor)
+# นางสาวมัณยาภา นำพันธ์ เลขที่ 42 
